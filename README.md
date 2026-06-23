@@ -25,4 +25,4 @@ I love system design and security, because me like big number go boom while keep
 
 ![](https://komarev.com/ghpvc/?username=neursh&label=Silly+goobers)
 
-you can contact me via email `neurs@neverany.art` or discord at `neurs`.
+you can contact me via email `lumi@neverany.art` or discord at `kemo.lumi`.
