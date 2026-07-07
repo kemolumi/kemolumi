@@ -19,7 +19,7 @@ I love system design and security, because me like big number go boom while keep
 
 <sup>Hitting one of [`Koii`](https://github.com/kemolumi/koii)'s fully implemented API endpoint and running load testing, all on my laptop.</sup>
 
-Working on creative web, it got so many moving parts, so I composed them down into one package, [`@neveranyart/weaver`](https://github.com/neveranyart/weaver), it handles the ins and outs of a typical web with r3f and routing stuff, ass well as some hooks for you to use!
+Working on creative web, it got so many moving parts, so I composed them down into one package, [`@neveranyart/weaver`](https://github.com/neveranyart/weaver), it handles the ins and outs of a typical web with r3f and routing stuff, as well as some hooks for you to use!
 
 <img width="2937" height="1027" src="https://github.com/user-attachments/assets/fc28ed22-b0d3-4d06-801c-7b17cb3cf856" />
 <sup>A <b>long</b> commission finally progresses, i'm happy with how far i've gone right now</sup>
