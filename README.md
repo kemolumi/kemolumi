@@ -2,12 +2,6 @@ xin chào x3 welcome to my lil public hideout!
 
 me is a fullstack dev since somewhere around 2020 - 2022, with crippling impostor syndrome.
 
-> [!IMPORTANT]
-> i don't like:
-> - vercel bc of its business model and pricing.
-> - ai companies doing everything in their power to collect human skills as a commodity.
-> - and the people supporting it: the people that can't think for themselves when there's no generative model babysitting them, likes to produce slop, or larps hard.
-
 i'm also a hobbyist in other fields:
 - hardware & embedded systems.
 - graphic, motion and shader design.
