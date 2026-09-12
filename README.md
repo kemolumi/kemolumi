@@ -20,4 +20,4 @@ Working on creative web, it got so many moving parts, so I composed them down in
 
 ![](https://komarev.com/ghpvc/?username=neursh&label=Silly+goobers)
 
-you can contact me via email `lumi@neverany.art` or discord at `kemo.lumi`.
+you can contact me via email `lumi@neverany.art` or discord at `kemolumi` (preferred).
